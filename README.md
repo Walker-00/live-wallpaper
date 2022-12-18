@@ -31,3 +31,5 @@ wget https://github.com/Walker-00/live-wallpaper/releases/download/v0.1.0/rust-l
 sudo dpkg -i rust-live-gui_0.1.0_amd64.deb
 rust-live-gui
 ```
+
+<h3><code>Special Thanks to my best friend Rize Kishimaro</code></h3>
