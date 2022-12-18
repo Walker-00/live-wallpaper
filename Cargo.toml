@@ -1,0 +1,15 @@
+[package]
+name = "rust-live-gui"
+version = "0.1.0"
+edition = "2021"
+description = "Live wallpaper for Gnu/Linux in Rust Gui app"
+authors = ["Linus Walker", "Rize Kishimaro"]
+license = "MIT"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+eframe = "0.20.1"
+infer = "0.11.0"
+opencv = "0.74.2"
+rfd = "0.10.0"
+temporary = "0.6.4"
